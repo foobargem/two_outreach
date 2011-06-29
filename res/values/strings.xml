@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">TWOutreach</string>
+    
+
+	<string name="tab_indicator_blank_paper">백지전도</string>
+	<string name="tab_indicator_acceptance_prayer">영접기도</string>
+	<string name="tab_indicator_assurance_question">확신질문</string>    
+
+</resources>
